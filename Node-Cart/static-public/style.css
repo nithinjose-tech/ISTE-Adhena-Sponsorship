@@ -47,6 +47,13 @@ section{
     align-items: center;
     justify-content: space-between;
 }
+.titles{
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+}
 section .title{
     position: relative;
     text-align: center;
